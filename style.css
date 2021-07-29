@@ -5,16 +5,9 @@ body{
 a {
   color: white !important;
 }
-.img-circle {
-  width: 160px;
-  height: 160px;
-  border-radius: 80px;
-}
+
 .gray {
   filter: grayscale(100%);
-}
-.com-height {
-  height: 50%;
 }
 i {
   color: gold;
@@ -23,12 +16,10 @@ i {
   margin-top: 160px;
   margin-bottom: 160px;
 }
-.text-cus p{
-    padding: 0;
+
+h1{
+  font-size: 48px;
 }
-.text-cus h1{
-    padding: 0;
+.div-height{
+  width: 160px;
 }
-/* .text-cus{
-    padding: 30px 0px;
-} */
